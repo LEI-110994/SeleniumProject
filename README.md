@@ -1,9 +1,9 @@
 # Identificação dos Membros do Grupo
 
-*   **Membro 1:** [Nome do Aluno 1] ([Número de Aluno 1])
-*   **Membro 2:** [Nome do Aluno 2] ([Número de Aluno 2])
-*   **Membro 3:** [Nome do Aluno 3] ([Número de Aluno 3])
-*   **Membro 4:** [Nome do Aluno 4] ([Número de Aluno 4])
+*   **Membro 1:** [Duarte Clemente] ([110994])
+*   **Membro 2:** [Tomás Leal] ([111491])
+*   **Membro 3:** [Eduardo Fernandes] ([111286])
+*   **Membro 4:** [Gonçalo Silva] ([123275])
 
 ---
 
