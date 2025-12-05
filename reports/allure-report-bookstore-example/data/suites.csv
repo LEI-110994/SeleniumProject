@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 05 15:11:55 WET 2025","Fri Dec 05 15:11:56 WET 2025","1365","","com.example.selenide.bookstore.BookstoreTest","","com.example.selenide.bookstore.BookstoreTest","testAddProduct","testAddProduct()",""
